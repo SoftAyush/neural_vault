@@ -1,0 +1,5 @@
+package com.example.neural_vault_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()

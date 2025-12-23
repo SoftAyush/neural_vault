@@ -1,0 +1,12 @@
+D:\neural_vault\rust\target\debug\deps\anes-889fa49e725c9a49.d: C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\lib.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\macros.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\attribute.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\buffer.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\color.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\cursor.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\terminal.rs
+
+D:\neural_vault\rust\target\debug\deps\libanes-889fa49e725c9a49.rmeta: C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\lib.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\macros.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\attribute.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\buffer.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\color.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\cursor.rs C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\terminal.rs
+
+C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\lib.rs:
+C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\macros.rs:
+C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences.rs:
+C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\attribute.rs:
+C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\buffer.rs:
+C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\color.rs:
+C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\cursor.rs:
+C:\Users\softd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anes-0.1.6\src\sequences\terminal.rs:
